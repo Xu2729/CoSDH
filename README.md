@@ -1,18 +1,21 @@
-# CoSDH (CVPR2025)
+# CoSDH (CVPR 2025)
 
 CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization
 
-[paper]()
+[paper](https://arxiv.org/abs/2503.03430)
 
 (TBD)
-
-
 
 ## Citation
 
 Please cite our work if you find it useful.
 ```bibtex
-(TBD)
+@article{xu2025cosdh,
+  title={CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization},
+  author={Xu, Junhao and Zhang, Yanan and Cai, Zhi and Huang, Di},
+  journal={arXiv preprint arXiv:2503.03430},
+  year={2025}
+}
 ```
 
 ## Acknowlege
