@@ -23,7 +23,6 @@ dataset
 ├── my_dair_v2x 
 │   └── v2x_c
 ├── OPV2V
-│   ├── additional
 │   ├── test
 │   ├── train
 │   └── validate
